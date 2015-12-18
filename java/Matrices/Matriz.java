@@ -4,7 +4,7 @@ import java.util.Random;
  * Clase para gestionar Matriz
  * 
  * @author UO250711
- * @version 12/12/2015
+ * @version 12/12/2015 
  */
 public class Matriz
 {
