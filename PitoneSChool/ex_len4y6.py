@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
-b=int(input("Introduce un numero: "))
+b=int(input("Introduce un numero: ")) 
 num_len = len(str(abs(b)))
 
 if num_len>=4 and num_len<=6:
