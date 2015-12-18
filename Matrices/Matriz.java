@@ -3,7 +3,7 @@ import java.util.Random;
 /**
  * Clase para gestionar Matriz
  * 
- * @author Pedro J. Nuñez-Cacho Fuentes
+ * @author UO250711
  * @version 12/12/2015
  */
 public class Matriz
